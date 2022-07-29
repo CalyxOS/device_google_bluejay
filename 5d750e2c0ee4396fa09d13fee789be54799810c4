@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "de2e0f83_39fa379d",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-07-29T18:55:11Z",
+      "side": 1,
+      "message": "this file, and 2 DKA_RC4_* above not present.",
+      "revId": "5d750e2c0ee4396fa09d13fee789be54799810c4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
