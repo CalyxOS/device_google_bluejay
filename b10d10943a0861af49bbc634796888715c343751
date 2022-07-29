@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "798d4e57_b10d82b8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-07-29T19:31:52Z",
+      "side": 1,
+      "message": "proprietary-files.txt is probably good now.\n\n-vendor needs to be verified, it\u0027s just the automatic regen, we need to add some stuff to exclusions (anything that\u0027s built in AOSP)",
+      "revId": "b10d10943a0861af49bbc634796888715c343751",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
