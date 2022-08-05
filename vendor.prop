@@ -10,3 +10,5 @@ persist.vendor.ril.ecc.xml=1
 
 # SSR
 vendor.debug.ssrdump.type=sscoredump
+
+ro.vendor.kernel.security_patch=2022-06-01
