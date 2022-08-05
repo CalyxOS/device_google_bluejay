@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f0a5cae_b5828dd4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-08-05T21:11:27Z",
+      "side": 1,
+      "message": "Verified with get_build_var\n\nOverrides gs101",
+      "revId": "87df4e40759197749173c947a2024226967af45b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
