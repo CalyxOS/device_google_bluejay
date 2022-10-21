@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0a16e1fb_4970d802",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-10-21T23:20:46Z",
+      "side": 1,
+      "message": "Can also check aosp-binaries for signature configuration",
+      "revId": "17a3bd1fa0040ebb03a373a155a8fb65a9e14b9f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
