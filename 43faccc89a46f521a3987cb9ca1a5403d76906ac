@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f8a7e10_73826ee8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-05-16T20:42:07Z",
+      "side": 1,
+      "message": "This may not be necessary on bluejay in practice (not sure), but it\u0027s set this way in stock.",
+      "revId": "43faccc89a46f521a3987cb9ca1a5403d76906ac",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
