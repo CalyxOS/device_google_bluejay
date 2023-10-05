@@ -53,7 +53,6 @@ product/lib/libdmengine.so
 product/lib/libdmjavaplugin.so
 product/lib64/libdmengine.so
 product/lib64/libdmjavaplugin.so
-product/priv-app/CarrierServices/CarrierServices.apk;PRESIGNED
 product/priv-app/CarrierSettings/CarrierSettings.apk;PRESIGNED
 product/priv-app/CarrierWifi/CarrierWifi.apk;PRESIGNED
 product/priv-app/ConnMO/ConnMO.apk
@@ -125,7 +124,6 @@ system_ext/framework/google-ril.jar
 system_ext/priv-app/CarrierSetup/CarrierSetup.apk;PRESIGNED
 system_ext/priv-app/ConnectivityThermalPowerManager/ConnectivityThermalPowerManager.apk
 system_ext/priv-app/EuiccGoogleOverlay/EuiccGoogleOverlay.apk
-system_ext/priv-app/EuiccSupportPixel/DKA_RC5_DVT.in
 system_ext/priv-app/EuiccSupportPixel/DKA_RC7_DVT.up
 system_ext/priv-app/EuiccSupportPixel/DKA_RC7_EVT.up
 system_ext/priv-app/EuiccSupportPixel/EuiccSupportPixel.apk;PRESIGNED
