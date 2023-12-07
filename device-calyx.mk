@@ -20,6 +20,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES := \
     HbmSVManagerOverlay
 
+# Pixel Camera Services / Camera extensions
+PRODUCT_COPY_FILES += \
+    device/google/bluejay/permissions/permissions_com.google.android.apps.camera.services.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/permissions_com.google.android.apps.camera.services.xml
+
 TARGET_PREBUILT_KERNEL := device/google/bluejay-kernel/Image.lz4
 
 # Build necessary packages for vendor
