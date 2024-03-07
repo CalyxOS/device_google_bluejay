@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59fdf249_bffadbd7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-03-07T18:44:07Z",
+      "side": 1,
+      "message": "Let\u0027s hold this for now, or upload to all devices",
+      "revId": "2c12c688d2d075b6c1beeb5705657b144f24e6c1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
