@@ -42,6 +42,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libGralloc4Wrapper
 
+# Carrier config
+PRODUCT_PACKAGES += = \
+    CarrierConfigMergedEntriesOverlay
+
 # Codec2
 PRODUCT_PACKAGES += \
     android.hardware.media.c2@1.0.vendor \
