@@ -106,6 +106,7 @@ bin/hw/android.hardware.usb-service.gs101
 bin/hw/android.hardware.usb.gadget-service.gs101
 bin/hw/android.hardware.wifi-service
 bin/hw/disable_contaminant_detection.sh
+bin/hw/gpsd
 bin/hw/hostapd
 bin/hw/wpa_supplicant
 bin/hwclock
