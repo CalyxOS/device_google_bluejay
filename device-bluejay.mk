@@ -15,7 +15,7 @@
 #
 
 TARGET_LINUX_KERNEL_VERSION := $(RELEASE_KERNEL_BLUEJAY_VERSION)
-TARGET_KERNEL_DIR := device/google/bluejay-kernels/calyx
+TARGET_KERNEL_DIR := device/google/bluejay-kernels/$(TARGET_LINUX_KERNEL_VERSION)
 TARGET_BOARD_KERNEL_HEADERS := $(TARGET_KERNEL_DIR)/kernel-headers
 
 DEVICE_PACKAGE_OVERLAYS += device/google/bluejay/bluejay/overlay
