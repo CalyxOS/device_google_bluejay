@@ -23,6 +23,9 @@ product/etc/sysconfig/preinstalled-packages-com.samsung.slsi.telephony.oemril.xm
 system_ext/etc/permissions/com.google.android.camera.experimental2022_system.xml
 system_ext/framework/com.google.android.camera.experimental2022_system.jar
 
+# Camera services
+system_ext/etc/vintf/camera_interference_avoidance_framework_compatibility_matrix_system_ext
+
 # Edge TPU
 system_ext/bin/hw/vendor.google.edgetpu_app_service@1.0-service
 system_ext/etc/init/vendor.google.edgetpu_app_service@1.0-service.rc
