@@ -28,6 +28,7 @@ from extract_utils.main import (
 )
 
 namespace_imports = [
+    'device/google/gs101',
     'hardware/google/av',
     'hardware/google/interfaces',
     'hardware/google/pixel',
@@ -55,6 +56,8 @@ blob_fixups: blob_fixups_user_type = {
         'vendor/etc/init/init.storage.rc',
     ) : blob_fixup()
         .regex_replace('ro.build.type=userdebug', 'ro.debuggable=1'),
+    'vendor/bin/hw/android.hardware.usb-service.gs101': blob_fixup()
+        .add_needed('libusb_policy_bridge.so'),
 }  # fmt: skip
 
 extract_fns: extract_fns_user_type = {
